@@ -190,4 +190,8 @@ section {
 	.p-6 {
 		right: 349px;
 	}
+	
+	.footer{
+		width: 100%
+	}
 }
